@@ -5,18 +5,26 @@ layout: about
 # 🔎About Me
 
 
-안녕하세요. 저는 한양대 ERICA 캠퍼스 과학기술융합대학에서 응용수학을 전공하고 자칭 "과학 통역가" 가 되고 싶은 박범수입니다. 
+안녕하세요. 저는 응용수학을 전공하고 자칭 "과학 통역가" 가 되고 싶은 박범수입니다. 
 제가 수학을 전공한 계기는 수학이란 학문에 흥미가 있는 이유도 있었지만, 한편으론 과학의 언어인 수학을 공부하면 과학과 한층 더 가까워질 수 있을거란 이유도 있었습니다. 
 그래서 언젠간 일을 하게 된다면 🌏자연과학을 탐구하는 일이라면 좋겠다고 생각했는데, 어느새 우주의 매력에 빠지게 되었습니다.
-그 이후 우주 산업에서 여러 분야를 탐색하다가, 🛰️위성의 움직임에 대한 역학들을 탐구할 수 있는 직무를 꿈꾸게 되었습니다. 그중에서도 제 관심사는 비행역학 시스템을 개발하고 연구하는 일입니다.
-현재는 목표하는 직무를 위해 궤도 역학과 관련된 물리법칙과 머신러닝과 결합된 궤도 예측 연구에 대해 공부하고 있습니다. 
+그 이후 우주 산업에서 여러 분야를 탐색하다가, 🛰️위성 제어 및 운용에 대한 직무를 꿈꾸게 되었습니다.
+현재 항공우주공학과 석사과정에 재학 중이며, 궤도역학 및 비행역학시스템(FDS)을 중심으로 궤도결정과 궤도전파 연구를 수행하고 있습니다.
 
 <br/>
 
+### 📍 Research Overview and Project Experience 
+
+<a href="{{ '/assets/Introduction.pdf' | relative_url }}" target="_blank">
+  주요 연구 소개 및 과제 수행 내용 PDF 보기
+</a>
 
 <br/>
 
 # 📚Education
+* **Inha University, ,Expected Graduation in February 2027**
+   * *Master of Science in Aerospace Engineering*
+
 * **Hanyang University,ERICA ,Graduated in August 2024**
    * *Bachelor of Science in applied mathematics*
 
@@ -24,13 +32,12 @@ layout: about
 
 ### 📍Areas of Interest
 
- * <**Machine learning**> <**Numerical analysis**>  <**Orbital mechanics**>  <**Statistics**>
-
+ * <**Orbit Prediction**> <**Orbit Determination**> <**Orbital mechanics**> <**Statistics**> <**Machine learning**>
 
 <br/>
 
 ### ➕Extracurricular Activities
-* **Samsung Software Academy For Youth, 12th (🗓 24.07~) - present**
+* **Samsung Software Academy For Youth, 12th (🗓 24.07~ 24.12)**
 
 <br/>
 
@@ -75,6 +82,9 @@ layout: about
 
 
 # 🖥Skills
+* <**ODTK**> **Flight Dynamics**
+* <**Freeflyer**> **Flight Dynamics**
+* <**GMAT**> **Flight Dynamics**
 * <**R**> **Data Analysis**
 * <**Python**>  **Pytorch, Tensorflow**
 * <**Java**, **Spring**> **Web Programming**
